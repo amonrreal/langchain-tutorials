@@ -2,9 +2,6 @@
 # For more information, visit:
 # https://python.langchain.com/docs/tutorials/llm_chain/#serving-with-langserve
 
-# pip install "langserve[all]"
-
-#!/usr/bin/env python
 import os
 from dotenv import load_dotenv
 from fastapi import FastAPI
